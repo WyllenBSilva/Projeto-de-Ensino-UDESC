@@ -3,17 +3,17 @@
 ## Descrição do projeto
 <p align="center">Foi proposto a criação de um programa em C com o objetivo de demonstrar o uso de banco de dados, como cadastro, criação, alteração, consulta, listagem de dados, etc. O conceito básico de Banco de Dados é persistir os dados para que não se percam após o encerramento da sessão, isso permite com que os dados possam ser manipulados posteriormente, para alteração ou pesquisa, por exemplo.
 
-<p align="center"> O programa foi criado com o objetivo de que estudantes da engenharia de produção pudessem olhar o código, estudá-lo e entendê-lo para analisar como funcionaria a persistência de dados de um programa que possui dados importantes e correlacionados, como dados de clientes e suas compras, que é o código em questão.<\
+<p align="left"> O programa foi criado com o objetivo de que estudantes da engenharia de produção pudessem olhar o código, estudá-lo e entendê-lo para analisar como funcionaria a persistência de dados de um programa que possui dados importantes e correlacionados, como dados de clientes e suas compras, que é o código em questão.<\
   
 # Como usar o código?
-  <p align="center"> Baixe o arquivo "BancoDeDados.c" e também baixe o arquivos.txt para uma melhor experiência com o código: "BancoDeDadosCliente.txt" e "BancoDeDadosProdutos.txt"
+  <p align="left"> Baixe o arquivo "BancoDeDados.c" e também baixe o arquivos.txt para uma melhor experiência com o código: "BancoDeDadosCliente.txt" e "BancoDeDadosProdutos.txt"
     
 <p align="center"> IMPORTANTE! Se desejar baixar os arquivos '.txt', salve-os na mesma pasta que você salvou o arquivo "BancoDeDados.c"
-  <p align="center">. Pronto! Agora é só executar o programa e explorar as funcionalidades que são apresentadas para você durante a execução! Aqui estão alguns exemplos bacanas do que você pode fazer:
-  <p align="center"> - Cadastrar Clientes e cadastrar compras de produtos desse cliente
-  <p align="right"> -Consultar Dados de Um cliente específico do banco de dados
-  <p align="right"> -Alterar dados do cliente
-  <p align="right"> -Pesquisar compras de produtos por bairro,cidade ou valor.
+  <p align="left">. Pronto! Agora é só executar o programa e explorar as funcionalidades que são apresentadas para você durante a execução! Aqui estão alguns exemplos bacanas do que você pode fazer:
+  <p align="left"> - Cadastrar Clientes e cadastrar compras de produtos desse cliente
+  <p align="left"> -Consultar Dados de Um cliente específico do banco de dados
+  <p align="left"> -Alterar dados do cliente
+  <p align="left"> -Pesquisar compras de produtos por bairro,cidade ou valor.
   
   
   
@@ -24,7 +24,7 @@ Um repositório para guardar e apresentar à comunidade acadêmica e sociedade n
 
   
 # Sobre Mim
-  ## Sou um estudante de ciências da computação da UDESC de Joinville, com previsão para terminar o curso no final de 2025.
+  Sou um estudante de ciências da computação da UDESC de Joinville, com previsão para terminar o curso no final de 2025.
   
   # 📫 - Entre em contato!
 ## Meu LinkedIn: https://www.linkedin.com/in/wyllen-brito/
