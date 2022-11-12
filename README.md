@@ -3,15 +3,14 @@
 ## Descrição do projeto
 <p align="center">Foi proposto a criação de um programa em C com o objetivo de demonstrar o uso de banco de dados, como cadastro, criação, alteração, consulta, listagem de dados, etc. O conceito básico de Banco de Dados é persistir os dados para que não se percam após o encerramento da sessão, isso permite com que os dados possam ser manipulados posteriormente, para alteração ou pesquisa, por exemplo.
 
-<p align="center"> O programa foi criado com o objetivo de que estudantes da engenharia de produção pudessem olhar o código, estudá-lo e entendê-lo para analisar como funcionaria a persistência de dados de um programa que possui dados importantes e correlacionados, como dados de clientes e suas compras, que é o código em questão.<\p>
+<p align="center"> O programa foi criado com o objetivo de que estudantes da engenharia de produção pudessem olhar o código, estudá-lo e entendê-lo para analisar como funcionaria a persistência de dados de um programa que possui dados importantes e correlacionados, como dados de clientes e suas compras, que é o código em questão.<\
   
 # Como usar o código?
-  <p align="center">.Baixe o arquivo "BancoDeDados.c" e também baixe o arquivos.txt para uma melhor experiência com o código: "BancoDeDadosCliente.txt" e "BancoDeDadosProdutos.txt"
+  <p align="center">. Baixe o arquivo "BancoDeDados.c" e também baixe o arquivos.txt para uma melhor experiência com o código: "BancoDeDadosCliente.txt" e "BancoDeDadosProdutos.txt"
     
-## IMPORTANTE! Se desejar baixar os arquivos '.txt', salve-os na mesma pasta que você salvou o arquivo "BancoDeDados.c"
-  ## Pronto! Agora é só executar o programa e explorar as funcionalidades que são apresentadas para você durante a execução! Aqui estão alguns exemplos bacanas do que você pode fazer:
-  ## Cadastrar Clientes e cadastrar compras de produtos desse cliente
-  ## Consultar Dados de Um cliente específico do banco de dados
+<p align="center">. IMPORTANTE! Se desejar baixar os arquivos '.txt', salve-os na mesma pasta que você salvou o arquivo "BancoDeDados.c"
+  <p align="center">. Pronto! Agora é só executar o programa e explorar as funcionalidades que são apresentadas para você durante a execução! Aqui estão alguns exemplos bacanas do que você pode fazer:
+  <p align="center">. - Cadastrar Clientes e cadastrar compras de produtos desse cliente\n Consultar Dados de Um cliente específico do banco de dados
   ## Alterar dados do cliente
   ## Pesquisar compras de produtos por bairro,cidade ou valor.
   
