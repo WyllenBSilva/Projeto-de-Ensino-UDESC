@@ -27,5 +27,9 @@ Um repositório para guardar e apresentar à comunidade acadêmica e sociedade n
   Sou um estudante de ciências da computação da UDESC de Joinville, com previsão para terminar o curso no final de 2025.
   
   # 📫 - Entre em contato!
-## Meu LinkedIn: https://www.linkedin.com/in/wyllen-brito/
-## Meu email: wyllen2015@gmail.com
+    <div>
+<a href="https://instagram.com/wyllen_brito/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@WyllenBSilva"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wyllen-brito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
