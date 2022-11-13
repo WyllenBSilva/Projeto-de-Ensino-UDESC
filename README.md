@@ -1,4 +1,5 @@
 # Demonstração de Uso de Banco de Dados utilizando programa em linguagem C
+![imagem 3](https://user-images.githubusercontent.com/74624671/201502445-89928242-e0bc-431c-b1a8-cebaf1386ee1.png)
 
 ## Descrição do projeto
 Foi proposto a criação de um programa em C com o objetivo de demonstrar o uso de banco de dados, como cadastro, criação, alteração, consulta, listagem de dados, etc. O conceito básico de Banco de Dados é persistir os dados para que não se percam após o encerramento da sessão, isso permite com que os dados possam ser manipulados posteriormente, para alteração ou pesquisa, por exemplo.
@@ -42,8 +43,8 @@ As seguintes ferramentas/conhecimentos foram usadas na construção do projeto:
 
 
   
-# Sobre Mim
-  Sou um estudante de ciências da computação da UDESC de Joinville, com previsão para terminar o curso no final de 2025.
+# Autor
+  Meu nome é Wyllen, atualmente sou um estudante de ciências da computação da UDESC de Joinville, com previsão para terminar a graduação no final de 2025.
   
   # 📫 - Entre em contato!
 <div>
