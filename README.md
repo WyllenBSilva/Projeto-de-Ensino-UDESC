@@ -1,5 +1,11 @@
 # Demonstração de Uso de Banco de Dados utilizando programa em linguagem C
-
+<p align="center">
+ <a href="# Descrição do projeto">Descrição do projeto</a> •
+ <a href="# Como usar o código?">Como usar o código?</a> • 
+ <a href="# Tecnologias e conhecimentos">Tecnologias e conhecimentos</a> • 
+ <a href="# Etapas de criação do código">Etapas de criação do código</a> • 
+ <a href="# Autor">Autor</a> • 
+</p>
 
 ## Descrição do projeto
 Foi proposto a criação de um programa em C com o objetivo de demonstrar o uso de banco de dados, como cadastro, criação, alteração, consulta, listagem de dados, etc. O conceito básico de Banco de Dados é persistir os dados para que não se percam após o encerramento da sessão, isso permite com que os dados possam ser manipulados posteriormente, para alteração ou pesquisa, por exemplo.
