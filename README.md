@@ -1,10 +1,12 @@
 # Demonstração de Uso de Banco de Dados utilizando programa em linguagem C
-![imagem 3](https://user-images.githubusercontent.com/74624671/201502445-89928242-e0bc-431c-b1a8-cebaf1386ee1.png)
+
 
 ## Descrição do projeto
 Foi proposto a criação de um programa em C com o objetivo de demonstrar o uso de banco de dados, como cadastro, criação, alteração, consulta, listagem de dados, etc. O conceito básico de Banco de Dados é persistir os dados para que não se percam após o encerramento da sessão, isso permite com que os dados possam ser manipulados posteriormente, para alteração ou pesquisa, por exemplo.
 
 O programa foi criado com o objetivo de que estudantes da engenharia de produção pudessem olhar o código, estudá-lo e entendê-lo para analisar como funcionaria a persistência de dados de um programa que possui dados importantes e correlacionados, como dados de clientes e suas compras, que é o código em questão.
+
+![imagem 3](https://user-images.githubusercontent.com/74624671/201502445-89928242-e0bc-431c-b1a8-cebaf1386ee1.png)
   
 # Como usar o código?
    Baixe o arquivo "BancoDeDados.c" e também baixe o arquivos.txt para uma melhor experiência com o código: "BancoDeDadosCliente.txt" e "BancoDeDadosProdutos.txt"
