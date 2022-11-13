@@ -8,12 +8,12 @@
 # Como usar o código?
   <p align="left"> Baixe o arquivo "BancoDeDados.c" e também baixe o arquivos.txt para uma melhor experiência com o código: "BancoDeDadosCliente.txt" e "BancoDeDadosProdutos.txt"
     
-<p align="center"> IMPORTANTE! Se desejar baixar os arquivos '.txt', salve-os na mesma pasta que você salvou o arquivo "BancoDeDados.c"
+ > **IMPORTANTE! Se desejar baixar os arquivos '.txt', salve-os na mesma pasta que você salvou o arquivo "BancoDeDados.c"**
   <p align="left">. Pronto! Agora é só executar o programa e explorar as funcionalidades que são apresentadas para você durante a execução! Aqui estão alguns exemplos bacanas do que você pode fazer:
-  <p align="left"> - Cadastrar Clientes e cadastrar compras de produtos desse cliente
-  <p align="left"> -Consultar Dados de Um cliente específico do banco de dados
-  <p align="left"> -Alterar dados do cliente
-  <p align="left"> -Pesquisar compras de produtos por bairro,cidade ou valor.
+   - Cadastrar Clientes e cadastrar compras de produtos desse cliente
+   - Consultar Dados de Um cliente específico do banco de dados
+   - Alterar dados do cliente
+   - Pesquisar compras de produtos por bairro,cidade ou valor.
   
   
   
