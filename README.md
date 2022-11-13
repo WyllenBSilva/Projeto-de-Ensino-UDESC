@@ -6,7 +6,8 @@ Foi proposto a criação de um programa em C com o objetivo de demonstrar o uso 
 
 O programa foi criado com o objetivo de que estudantes da engenharia de produção pudessem olhar o código, estudá-lo e entendê-lo para analisar como funcionaria a persistência de dados de um programa que possui dados importantes e correlacionados, como dados de clientes e suas compras, que é o código em questão.
 
-![imagem 3](https://user-images.githubusercontent.com/74624671/201502445-89928242-e0bc-431c-b1a8-cebaf1386ee1.png)
+![imagem 3](https://user-images.githubusercontent.com/74624671/201502543-50226007-321e-4c0f-8f6a-92e6dbf4fb39.png)
+
   
 # Como usar o código?
    Baixe o arquivo "BancoDeDados.c" e também baixe o arquivos.txt para uma melhor experiência com o código: "BancoDeDadosCliente.txt" e "BancoDeDadosProdutos.txt"
