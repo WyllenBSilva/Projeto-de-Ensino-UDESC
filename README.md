@@ -15,7 +15,7 @@ O programa foi criado com o objetivo de que estudantes da engenharia de produç�
 ![imagem 3](https://user-images.githubusercontent.com/74624671/201502543-50226007-321e-4c0f-8f6a-92e6dbf4fb39.png)
 
   
-# Como usar o código?
+## Como usar o código?
    Baixe o arquivo "BancoDeDados.c" e também baixe o arquivos.txt para uma melhor experiência com o código: "BancoDeDadosCliente.txt" e "BancoDeDadosProdutos.txt"
     
  > **IMPORTANTE!** Se desejar baixar os arquivos '.txt', salve-os na mesma pasta que você salvou o arquivo "BancoDeDados.c"
@@ -26,7 +26,7 @@ O programa foi criado com o objetivo de que estudantes da engenharia de produç�
    - Alterar dados do cliente
    - Pesquisar compras de produtos por bairro,cidade ou valor.
 
-# Tecnologias e conhecimentos
+## Tecnologias e conhecimentos
 As seguintes ferramentas/conhecimentos foram usadas na construção do projeto:
 - C (Linguagem de Programação) 
 - Estrutura de Dados
@@ -35,7 +35,7 @@ As seguintes ferramentas/conhecimentos foram usadas na construção do projeto:
   
   
   
- # Etapas de criação do código
+ ## Etapas de criação do código
   Caso esteja curioso sobre como foi o processo de criação do projeto aqui está:
   
   Quando cheguei no projeto, uma estudante da engenharia de produção que fazia parte do mesmo projeto em questão, já havia começado a delinear o produto que seria feito, por meio da criação de fluxogramas sobre como o programa deveria se comportar:
@@ -52,10 +52,10 @@ As seguintes ferramentas/conhecimentos foram usadas na construção do projeto:
 
 
   
-# Autor
+## Autor
   Meu nome é Wyllen, atualmente sou um estudante de ciências da computação da UDESC de Joinville, com previsão para terminar a graduação no final de 2025.
   
-  # 📫 - Entre em contato!
+  📫 - Entre em contato!
 <div>
 <a href="https://instagram.com/wyllen_brito/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:wyllen2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
