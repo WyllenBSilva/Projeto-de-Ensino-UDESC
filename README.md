@@ -11,7 +11,7 @@
 	🚧  Estado do Projeto 🚧  Concluído! 🚀🥳
 </h4>
 
-## Descrição do projeto
+##Descrição do projeto
 Foi proposto a criação de um programa em C com o objetivo de demonstrar o uso de banco de dados, como cadastro, criação, alteração, consulta, listagem de dados, etc. O conceito básico de Banco de Dados é persistir os dados para que não se percam após o encerramento da sessão, isso permite com que os dados possam ser manipulados posteriormente, para alteração ou pesquisa, por exemplo.
 
 O programa foi criado com o objetivo de que estudantes da engenharia de produção pudessem olhar o código, estudá-lo e entendê-lo para analisar como funcionaria a persistência de dados de um programa que possui dados importantes e correlacionados, como dados de clientes e suas compras, que é o código em questão.
