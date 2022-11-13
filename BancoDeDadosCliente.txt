@@ -1,0 +1,24 @@
+Ana Peres, 56723347291, 921370320, 23/09/1988, Espinheiros, Joinville
+Andrei Ceolin, 23443243123, 47999239870, 14/06/1984, Boa Vista, jaragua do sul
+Arthur Pandini, 65903983453, 47993284059, 12/11/1955, Comasa, Joinville
+Beatriz Bezz, 50454529534, 48949293041, 12/12/2000, Fatima, Joinville
+Bruno Polese, 98054320023, 47391247123, 24/05/1999, Comasa, Joinville
+Camila Hadad, 21478334234, 47218749544, 08/11/1969, Boa Vista, Joinville
+Carla Perin, 43121466607, 48999739120,	09/04/2001, Jativoca, Joinville
+Carlos Kniss, 60113296805, 47987493722, 13/09/1984, Fatima, Joinville
+Daniel Medeiros, 78023523912, 47993217844, 31/10/1999, Centro, Joinville
+Daniel Walter, 39559140224, 47992739899, 23/02/1980, Mina Velha, Garuva
+Daniela Bittar, 03532369821, 47992394759, 21/02/2001, Palmitol, Garuva
+Dara Souza, 36912494312, 49943782523, 11/11/1967, Vigorelli, Joinville
+Davi Luiz, 19203012070, 48999752030, 30/12/1986, Rio Bonito, Braco do Norte
+Emily Santana, 05984903229, 47972438754, 23/09/1998, Comasa, Joinville
+Guilherme Becker, 94443534201, 47659012441, 22/11/1982, Joao Costa, Joinville
+Gustavo Piva, 12482923909,47312890254, 13/11/1960, Vigorelli, Joinville
+Higor Fernandes, 10643668909, 48932185230, 14/12/1959, Saguacu, Joinville
+Higor Veronez, 10501993916, 48999730350, 09/04/2001, Travessao, Bra√ßo do Norte
+Iara Vieira, 23495846232, 48998838281, 03/09/1987, Gloria, Joinville
+Jean Tigor, 09483535236, 48992334674, 29/10/2002, Guanabara, Joinville
+Jessica Bens, 45723505559, 48992914210, 19/06/1992, Floresta, Joinville
+Eduardo Gomes, 23453805335, 47875494505, 15/08/2002, Boa Vista, Sao Carlos
+Wyllen, 234143234, 16 992932, 25/01/2002, iririu, joinville
+Wyllen Jo∆o, 1241214, 1233333, 25/01/2002, Iriri££, S∆o Carlos Ä 
