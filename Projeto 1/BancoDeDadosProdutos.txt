@@ -4,7 +4,7 @@
 50454529534, Fatima, Joinville, Nescau, 2.30, 20/30/2003
 98054320023, Comasa, Joinville, Coxinha, 20.30, 23/20/2003
 21478334234, Boa Vista, Joinville, Leite, 5.50, 20/30/2003
-43121466607, Jativoca, Joinville, Maça, 15.30, 23/20/2003
+43121466607, Jativoca, Joinville, MaÃ§a, 15.30, 23/20/2003
 60113296805, Fatima, Joinville, Pera, 1.50, 20/30/2003
 78023523912, Centro, Joinville, Computador, 2350.50, 25/02/2014
 39559140224, Mina Velha, Garuva, Bola, 25.50, 10/10/2022
@@ -16,7 +16,7 @@
 94443534201, Joao Costa, Joinville, Tenis, 500.50, 01/01/2020
 12482923909, Vigorelli, Joinville, Casaco, 200.29, 03/02/2021
 10643668909, Saguacu, Joinville, Mochila, 110.20, 02/02/2022
-10501993916, Travessao, Braço do Norte, Caderno, 12.49, 03/02/2022
+10501993916, Travessao, BraÃ§o do Norte, Caderno, 12.49, 03/02/2022
 23495846232, Gloria, Joinville, Moto, 23.00, 03/05/2018
 09483535236, Guanabara, Joinville, Carrinho, 42.00, 10/07/2022
 45723505559, Floresta, Joinville, Barquinho, 40.00, 08/08/2012
