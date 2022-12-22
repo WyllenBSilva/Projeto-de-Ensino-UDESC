@@ -7,7 +7,6 @@
 ## Descrição do projeto
 O projeto se baseia em um programa em C que gera dados de forma aleatória, em que o usuário escolhe apenas os campos de dados que ele quer que sejam gerados, e o programa fica encarregado de gerar esses valores de forma randômica e devolver para o usuário para que ele possa utilizar em seus trabalhos, podendo ser em planilhas no excel, dados para tabelas em SQL, ou para qualquer outro fim. 
 
-**Estrutura do programa:** 
 
 ![Documento de Requisitos - Aleatoriedade_page-0001](https://user-images.githubusercontent.com/74624671/209222678-442e0ff3-5d93-44d6-997a-df96c06ff23f.jpg)
 ![Documento de Requisitos - Aleatoriedade_page-0002](https://user-images.githubusercontent.com/74624671/209222684-f67fffa9-d0d2-41d4-843b-793f509eb63e.jpg)
@@ -26,12 +25,15 @@ Baixe o arquivo "Gerador De Dados Aleatorios.zip" em seu computador.
    - Gerar CPFS aleatórios
    - Gerar Números Aleatórios em um intervalo específico
    
- Sempre que você rodar o programa e gerar valores aleatórios, os dados gerados serão salvos no arquivo "ArqDadosAleatorios.txt"!. Assim, após rodar o programa e ter escolhido os dados, você pode utilizar o arquivo "ArqDadosAleatorios.txt" para visualizar os dados de uma forma mais bonita em uma planilha no excel, Basta seguir os passos: 
- Abra sua planilha no excel e vá em: 
- Dados -> Nova Consulta -> Do arquivo -> Do texto -> (selecione o arquivo "ArqDadosAleatorios.txt") -> Carregar
+ Sempre que você rodar o programa e gerar valores aleatórios, os dados gerados serão salvos no arquivo "ArqDadosAleatorios.txt"!. Assim, após rodar o programa e ter escolhido os dados, você pode utilizar o arquivo "ArqDadosAleatorios.txt" para visualizar os dados de uma forma mais bonita em uma planilha no excel, Basta seguir os passos:
  
- Resultado:
- ![image](https://user-images.githubusercontent.com/74624671/209224091-bcd24ec2-22ad-4bd8-8d7d-63ffba8e7fe1.png)
+ Abra sua planilha no excel e vá em: 
+ ** Dados -> Nova Consulta -> Do arquivo -> Do texto -> (selecione o arquivo "ArqDadosAleatorios.txt") -> Carregar **
+ 
+ *Resultado:*
+ 
+ ![Planilha excel dados](https://user-images.githubusercontent.com/74624671/209224445-96d4822b-b579-4fec-98be-f002be3b031f.jpg)
+
 
 
 
