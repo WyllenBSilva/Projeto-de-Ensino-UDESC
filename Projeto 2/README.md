@@ -40,7 +40,6 @@ Baixe o arquivo "Gerador De Dados Aleatorios.zip" em seu computador.
 
 
 
-
 ## Tecnologias e conhecimentos
 As seguintes ferramentas/conhecimentos foram usadas na construção do projeto:
 - C (Linguagem de Programação) 
