@@ -1,2 +1,53 @@
-# Projeto 2
-## Descricao
+# Criação de Dados Aleatórios para Planilhas
+
+<h4 align="center"> 
+	🚧  Estado do Projeto:  Concluído! 🚀🥳
+</h4>
+
+## Descrição do projeto
+O projeto se baseia em um programa em C que gera dados de forma aleatória, em que o usuário escolhe apenas os campos de dados que ele quer que sejam gerados, e o programa fica encarregado de gerar esses valores de forma randômica e devolver para o usuário para que ele possa utilizar em seus trabalhos, podendo ser em planilhas no excel, dados para tabelas em SQL, ou para qualquer outro fim. 
+
+**Estrutura do programa:** 
+
+![Documento de Requisitos - Aleatoriedade_page-0001](https://user-images.githubusercontent.com/74624671/209222678-442e0ff3-5d93-44d6-997a-df96c06ff23f.jpg)
+![Documento de Requisitos - Aleatoriedade_page-0002](https://user-images.githubusercontent.com/74624671/209222684-f67fffa9-d0d2-41d4-843b-793f509eb63e.jpg)
+
+
+  
+## Como usar o código?
+
+Baixe o arquivo "Gerador De Dados Aleatorios.zip" em seu computador.
+  
+ > **IMPORTANTE!** salve todos os arquivos na mesma pasta!
+ 
+  Pronto! Agora é só executar o programa "Gerador.c" e explorar as funcionalidades que são apresentadas para você durante a execução! Aqui estão alguns exemplos bacanas do que você pode fazer:
+   - Gerar Nomes aleatórios (Nome, nome e sobrenome ou nome completo)
+   - Gerar Cidades do Brasil aleatórias
+   - Gerar CPFS aleatórios
+   - Gerar Números Aleatórios em um intervalo específico
+   
+ Sempre que você rodar o programa e gerar valores aleatórios, os dados gerados serão salvos no arquivo "ArqDadosAleatorios.txt"!. Assim, após rodar o programa e ter escolhido os dados, você pode utilizar o arquivo "ArqDadosAleatorios.txt" para visualizar os dados de uma forma mais bonita em uma planilha no excel, Basta seguir os passos: 
+ Abra sua planilha no excel e vá em: 
+ Dados -> Nova Consulta -> Do arquivo -> Do texto -> (selecione o arquivo "ArqDadosAleatorios.txt") -> Carregar
+ 
+ Resultado:
+ ![image](https://user-images.githubusercontent.com/74624671/209224091-bcd24ec2-22ad-4bd8-8d7d-63ffba8e7fe1.png)
+
+
+
+
+## Tecnologias e conhecimentos
+As seguintes ferramentas/conhecimentos foram usadas na construção do projeto:
+- C (Linguagem de Programação) 
+- Manipulação de arquivos em C
+  
+  
+## Autor
+  Meu nome é Wyllen, atualmente sou um estudante de ciências da computação da UDESC de Joinville, com previsão para terminar a graduação no final de 2025.
+  
+  📫 - Entre em contato!
+<div>
+<a href="https://instagram.com/wyllen_brito/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:wyllen2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wyllen-brito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
