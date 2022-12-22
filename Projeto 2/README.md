@@ -31,7 +31,7 @@ Baixe o arquivo "Gerador De Dados Aleatorios.zip" em seu computador.
  
  Abra sua planilha no excel e vá em:
  
- **Dados -> Nova Consulta -> Do arquivo -> Do texto -> (selecione o arquivo "ArqDadosAleatorios.txt") -> Carregar **
+ **Dados -> Nova Consulta -> Do arquivo -> Do texto -> (selecione o arquivo "ArqDadosAleatorios.txt") -> Carregar**
  
  **Resultado:**
  
@@ -58,8 +58,4 @@ As seguintes ferramentas/conhecimentos foram usadas na construção do projeto:
 </div>
 
 
-<div>
-<a href="https://github.com/WyllenBSilva">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyllenBSilva&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WyllenBSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div> 
+
